@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hd0018&label=Profile%20views&color=0e75b6&style=flat" alt="hd0018" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning & Data Analytics**
+- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
 - 📫 How to reach me **mails.hd18@gmail.com**
 
